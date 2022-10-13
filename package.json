@@ -1,18 +1,18 @@
 {
   "name": "sa34-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lottovipios✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"lottovipios",
-"หวย24ออนไลน์",
-"lottovip แทงหวย",
-"เว็บหวยทุกหวย",
-"หวยสด huaysod"
-],
+  "version": "0.2.0",
+  "description": "lottovipios✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "lottovipios",
+    "หวย24ออนไลน์",
+    "lottovip แทงหวย",
+    "เว็บหวยทุกหวย",
+    "หวยสด huaysod"
+  ],
   "repository": "https://github.com/setteebet/sa34-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
